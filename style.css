@@ -1,3 +1,7 @@
+*{
+    font-family: 'Rokkit', sans-serif;
+}
+
 body{
     margin: 0;
     padding: 0;
@@ -238,5 +242,25 @@ input[type='search']{
 
 .trending-acc{
     display: grid;
-    gap: 4rem;
+    gap: 2rem;
+}
+
+.user{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    width: 110px;
+    cursor: pointer;
+}
+
+.user p{
+    font-family: 'Rokkit', sans-serif;
+    font-weight: 600;
+    width: 200px;
+    margin: 0;
+}
+
+hr{
+    width: 100%;
+    margin: 0;
 }
