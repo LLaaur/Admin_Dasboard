@@ -9,5 +9,7 @@ Not responsive (yet) but it will be in the near future.
 
 Things I learned: CSS Grid!
 
+![admin dashboard](https://user-images.githubusercontent.com/102544514/193110348-dcbd5eac-da7b-400d-880e-644d08090229.png)
+
 
 👉 <a href="https://llaaur.github.io/Admin_Dasboard/"> Live demo </a>
